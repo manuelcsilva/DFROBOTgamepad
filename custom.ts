@@ -56,7 +56,7 @@ namespace GamePad {
         up = PulseValue.Low
     }
     //% block
-    export function Butao(button: ButtonsPin, event: ButtonType, handler: Action): void {
+    export function Botao(button: ButtonsPin, event: ButtonType, handler: Action): void {
         pins.onPulsed(<number>button, <number>event, handler);
     }
     //% block
