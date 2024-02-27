@@ -62,9 +62,9 @@ namespace GamePad {
     //% block
     export function Vibracao(t: Estado): void {
         if (t == Estado.On) {
-            pins.digitalWritePin(DigitalPin.P12, 1)
-        } else {
             pins.digitalWritePin(DigitalPin.P12, 0)
+        } else {
+            pins.digitalWritePin(DigitalPin.P12, 1)
         }
     }
 
