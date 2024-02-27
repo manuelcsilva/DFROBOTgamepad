@@ -1,4 +1,4 @@
-#Extensão para o DFROBOT GamePad for Micro:bit V4.0
+# Extensão para o DFROBOT GamePad for Micro:bit V4.0
 DFROBOTgamepad
 
 
