@@ -1,9 +1,6 @@
 # Extensão para o DFROBOT GamePad for Micro:bit V4.0
 DFROBOTgamepad
 
-
-> Abrir esta página em [https://manuelcsilva.github.io/dfrobotgamepad/](https://manuelcsilva.github.io/dfrobotgamepad/)
-
 ## Utilizar como Extensão
 
 Este repositório pode ser adicionado como uma **extensão** no MakeCode.
@@ -21,7 +18,3 @@ Para editar este repositório no MakeCode.
 * clica em **Importar** e, em seguida, em **Importar URL**
 * colar **https://github.com/manuelcsilva/dfrobotgamepad** e clicar em importar
 
-#### Metadados (usados para pesquisa, renderização)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
